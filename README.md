@@ -19,6 +19,5 @@ Please don't open issues here — this repo is for release artifacts only.
 ## Legal
 
 Proprietary software © 2026 Consciouss AI, Inc.
-See [`LICENSE`](./LICENSE),
 [Terms](https://www.conscioussai.com/legals/terms-conditions), and
 [Privacy](https://www.conscioussai.com/legals/privacy-policy).
